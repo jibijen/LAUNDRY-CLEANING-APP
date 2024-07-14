@@ -5,7 +5,7 @@ const GetStartedScreen = ({ navigation }) => {
   return (
     <ImageBackground source={require('../assets/backgrounds.png')} style={styles.background}>
       <View style={styles.overlay}>
-        <Text style={styles.title}>Welcome to MyApp!</Text>
+        <Text style={styles.title}>Hello I am Jibitesh Welcome to MyApp!</Text>
         <TouchableOpacity
           style={styles.button}
           onPress={() => navigation.navigate('Login')}
