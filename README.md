@@ -1,5 +1,5 @@
-# "LaundryLux - Your Trusted Partner for a Hassle-Free Laundry Experience!"
-Welcome to LaundryLux!! This project is a React Native application designed to provide users with a seamless and convenient way to book laundry services online. Our app offers a comprehensive set of features to ensure that managing your laundry is as effortless as possible.
+# "Laundrymate - Your Trusted Partner for a Hassle-Free Laundry Experience!"
+Welcome to Laundrymate!! This project is a React Native application designed to provide users with a seamless and convenient way to book laundry services online. Our app offers a comprehensive set of features to ensure that managing your laundry is as effortless as possible.
 
 # FEATURES
 1.) GET STARTED PAGE
